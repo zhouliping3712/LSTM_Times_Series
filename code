@@ -11,7 +11,7 @@ from sklearn.metrics import mean_squared_error
 seed = 7
 batch_size = 20
 epochs = 100
-filename = 'gzcb_lr_cases.csv'
+filename = 'cases.csv'
 footer = 3
 look_back=1
 
