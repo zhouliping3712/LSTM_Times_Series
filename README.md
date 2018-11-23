@@ -1,6 +1,6 @@
 # LSTM_Times_Series
 #predict daily application of credit card
-
+博客地址：https://blog.csdn.net/mengdiefeixumyname/article/details/84405301
 一、参考资料：
 1. LSTM模型简介： https://www.jianshu.com/p/9dc9f41f0b29
 2.基于keras的LSTM例子：预估航空公司乘客数量：
